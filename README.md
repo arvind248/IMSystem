@@ -80,6 +80,20 @@ If you want to make changes to a paper-based document, you will need to photocop
 	Database Package		:	Microsoft-Access
 	Others				:	360 security Antivirus
 
+## output screen 
+
+![loading](images/loading.png)
+
+![login](images/login.png)
+
+![MDI](images/MDI.png)
+
+![Master menu](images/master.png)
+
+![transaction menu](images/transaction.png)
+
+![emp form](images/emp.png)
+
  
 
  
