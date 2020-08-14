@@ -120,6 +120,7 @@ In master menu, user can work on following entity:-
 - Batch allotement
 - Completion Certificate
 - Placement
+
 ![transaction menu](images/transaction.png)
 
 ![emp form](images/emp.png)
