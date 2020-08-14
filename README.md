@@ -92,11 +92,27 @@ to login use following credentials:
   
 ![login](images/login.png)
 
-As, user login user will be move to MDI form from where he can operate all operation
+As, user login user will be move to MDI form from where he can operate all operation.
 
 ![MDI](images/MDI.png)
+In master menu user can work on following entity:-
+- Student
+- Employee
+- Teacher 
+- subject
+- Books
+- Batch
 
-![Master menu](images/Master.png)
+![Master menu](images/Master.png)<br>
+
+### Master menu
+In master menu, user can work on following entity:-
+- Student
+- Employee
+- Teacher 
+- subject
+- Books
+- Batch
 
 ![transaction menu](images/transaction.png)
 
