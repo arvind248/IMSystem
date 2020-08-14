@@ -80,7 +80,8 @@ If you want to make changes to a paper-based document, you will need to photocop
 	Database Package		:	Microsoft-Access
 	Others				:	360 security Antivirus
 
-## output screens
+
+## OUTPUT SCREENS
 ### loading screen<br>
 
 ![loading](images/loading.png)
