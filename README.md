@@ -80,15 +80,23 @@ If you want to make changes to a paper-based document, you will need to photocop
 	Database Package		:	Microsoft-Access
 	Others				:	360 security Antivirus
 
-## output screen 
+## output screens
+### loading screen<br>
 
 ![loading](images/loading.png)
 
+### login window<br>
+to login use following credentials:
+  - username: admin
+  - password: admin
+  
 ![login](images/login.png)
+
+As, user login user will be move to MDI form from where he can operate all operation
 
 ![MDI](images/MDI.png)
 
-![Master menu](images/master.png)
+![Master menu](images/Master.png)
 
 ![transaction menu](images/transaction.png)
 
