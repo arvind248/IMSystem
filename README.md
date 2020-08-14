@@ -94,7 +94,8 @@ to login use following credentials:
 
 As, user login user will be move to MDI form from where he can operate all operation.
 
-![MDI](images/MDI.png)
+![MDI](images/MDI.png)<br><br>
+### Master Menu
 In master menu user can work on following entity:-
 - Student
 - Employee
@@ -103,17 +104,22 @@ In master menu user can work on following entity:-
 - Books
 - Batch
 
-![Master menu](images/Master.png)<br>
+![Master menu](images/Master.png)<br><br>
 
-### Master menu
+### Transaction menu
 In master menu, user can work on following entity:-
-- Student
-- Employee
-- Teacher 
-- subject
-- Books
-- Batch
-
+- Enquiry
+- Book Issue
+- Book Return
+- Pay Fees
+- Student attendence
+- Teacher attendance
+- Employee attendance
+- Test
+- Test marks
+- Batch allotement
+- Completion Certificate
+- Placement
 ![transaction menu](images/transaction.png)
 
 ![emp form](images/emp.png)
